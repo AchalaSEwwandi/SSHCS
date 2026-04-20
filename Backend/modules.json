@@ -1,0 +1,3114 @@
+[
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "1",
+    "semester": "1",
+    "code": "IT1120",
+    "name": "Introduction to Programming",
+    "description": "Learn the basics of programming using languages like Java or Python. Develop logical thinking and problem-solving skills to build simple applications."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "1",
+    "semester": "1",
+    "code": "IE1030",
+    "name": "Data Communication Networks",
+    "description": "Understand how computers communicate over networks and the internet. Learn about protocols, data transfer, and networking basics."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "1",
+    "semester": "1",
+    "code": "IT1130",
+    "name": "Mathematics for Computing",
+    "description": "Learn mathematical concepts such as algebra and logic used in computing. Develop analytical thinking skills for solving technical problems."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "1",
+    "semester": "1",
+    "code": "IT1140",
+    "name": "Fundamentals of Computing",
+    "description": "Understand the basics of computer systems including hardware and software. Learn how different components of a computer system function together."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "1",
+    "semester": "2",
+    "code": "IT1160",
+    "name": "Discrete Mathematics",
+    "description": "Learn logic, sets, and graph theory concepts used in computing. Develop reasoning and problem-solving skills."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "1",
+    "semester": "2",
+    "code": "IT1170",
+    "name": "Data Structures and Algorithms",
+    "description": "Learn how to organize and store data efficiently. Understand algorithms to solve problems effectively."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "1",
+    "semester": "2",
+    "code": "SE1010",
+    "name": "Software Engineering",
+    "description": "Understand the software development lifecycle. Learn how to design and build reliable software systems."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "1",
+    "semester": "2",
+    "code": "IT1150",
+    "name": "Technical Writing",
+    "description": "Develop skills to write clear technical documents. Learn professional communication in IT environments."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "2",
+    "semester": "1",
+    "code": "IT2120",
+    "name": "Probability and Statistics",
+    "description": "Learn probability and statistical techniques. Analyze and interpret data effectively."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "2",
+    "semester": "1",
+    "code": "SE2010",
+    "name": "Object Oriented Programming",
+    "description": "Learn concepts like classes and objects. Build reusable and scalable software systems."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "2",
+    "semester": "1",
+    "code": "IT2130",
+    "name": "Operating Systems & System Administration",
+    "description": "Understand how operating systems manage resources. Learn system configuration and administration basics."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "2",
+    "semester": "1",
+    "code": "IT2140",
+    "name": "Database Design and Development",
+    "description": "Learn how to design and manage databases. Use SQL for data storage and retrieval."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "2",
+    "semester": "2",
+    "code": "IT2011",
+    "name": "Artificial Intelligence & Machine Learning",
+    "description": "Learn AI concepts and machine learning techniques. Build systems that can learn from data."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "2",
+    "semester": "2",
+    "code": "IT2012",
+    "name": "AIML Project",
+    "description": "Apply AI knowledge in a practical project. Solve real-world problems using machine learning."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "2",
+    "semester": "2",
+    "code": "SE2020",
+    "name": "Web and Mobile Technologies",
+    "description": "Learn to build web and mobile applications. Understand frontend and backend basics."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "2",
+    "semester": "2",
+    "code": "IT2160",
+    "name": "Professional Skills",
+    "description": "Develop communication and teamwork skills. Prepare for professional environments."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "3",
+    "semester": "1",
+    "code": "SE3090",
+    "name": "Software Engineering Frameworks",
+    "description": "Learn modern frameworks used in development. Build scalable and maintainable systems."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "3",
+    "semester": "1",
+    "code": "IT3012",
+    "name": "Intelligent Agents",
+    "description": "Understand autonomous systems and decision making. Learn AI agent applications."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "3",
+    "semester": "1",
+    "code": "IT3091",
+    "name": "Machine Learning",
+    "description": "Study machine learning algorithms. Build predictive models using data."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "3",
+    "semester": "1",
+    "code": "IT3101",
+    "name": "Data Warehouse and Business Intelligence",
+    "description": "Learn data analysis techniques. Generate insights for business decisions."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "3",
+    "semester": "2",
+    "code": "IT3190",
+    "name": "Industry Training",
+    "description": "Gain real-world work experience. Apply academic knowledge in industry."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "3",
+    "semester": "2",
+    "code": "IT3160",
+    "name": "Research Methods",
+    "description": "Learn research techniques and methodologies. Develop academic writing skills."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "3",
+    "semester": "2",
+    "code": "IT3111",
+    "name": "Deep Learning",
+    "description": "Learn neural networks and deep learning models. Apply them in AI applications."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "3",
+    "semester": "2",
+    "code": "IT3022",
+    "name": "Bio Inspired Computing",
+    "description": "Study algorithms inspired by nature. Solve optimization problems."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "4",
+    "semester": "1",
+    "code": "IT4200",
+    "name": "Research Project - I",
+    "description": "Start a research-based project. Develop analytical and problem-solving skills."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "4",
+    "semester": "1",
+    "code": "IT4012",
+    "name": "Current Trends in AI",
+    "description": "Explore modern AI technologies. Understand industry applications of AI."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "4",
+    "semester": "1",
+    "code": "IT4061",
+    "name": "Natural Language Processing",
+    "description": "Learn how machines understand language. Build chatbot and NLP systems."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "4",
+    "semester": "1",
+    "code": "IT4022",
+    "name": "Edge AI",
+    "description": "Understand AI on edge devices. Build efficient real-time AI systems."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "4",
+    "semester": "1",
+    "code": "SE4070",
+    "name": "Secure Software Development",
+    "description": "Learn secure coding practices. Prevent software vulnerabilities."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "4",
+    "semester": "2",
+    "code": "IT4200",
+    "name": "Research Project - II",
+    "description": "Complete and present the research project. Deliver a full working solution."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "4",
+    "semester": "2",
+    "code": "IT4032",
+    "name": "Responsible AI",
+    "description": "Understand ethical AI practices. Learn fairness and bias handling."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "4",
+    "semester": "2",
+    "code": "IT4111",
+    "name": "MLOps for Data Analytics",
+    "description": "Learn deployment of ML models. Manage and monitor AI systems."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "4",
+    "semester": "2",
+    "code": "SE4120",
+    "name": "Enterprise Application Development",
+    "description": "Build large-scale enterprise systems. Understand business-level applications."
+  },
+  {
+    "course": "BSc (Hons) IT – AI Specialization",
+    "year": "4",
+    "semester": "2",
+    "code": "SE4140",
+    "name": "Big Data and Data Analytics",
+    "description": "Process and analyze large datasets. Extract meaningful insights."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "1",
+    "semester": "1",
+    "code": "IT1120",
+    "name": "Introduction to Programming",
+    "description": "Learn the basics of programming using languages like Java or Python. Develop logical thinking and problem-solving skills to build simple applications."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "1",
+    "semester": "1",
+    "code": "IE1030",
+    "name": "Data Communication Networks",
+    "description": "Understand how computers communicate over networks and the internet. Learn about protocols, data transfer, and networking basics."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "1",
+    "semester": "1",
+    "code": "IT1130",
+    "name": "Mathematics for Computing",
+    "description": "Learn mathematical concepts such as algebra and logic used in computing. Develop analytical thinking skills for solving technical problems."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "1",
+    "semester": "1",
+    "code": "IT1140",
+    "name": "Fundamentals of Computing",
+    "description": "Understand the basics of computer systems including hardware and software. Learn how different components of a computer system function together."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "1",
+    "semester": "2",
+    "code": "IT1160",
+    "name": "Discrete Mathematics",
+    "description": "Learn logic, sets, and graph theory concepts used in computing. Develop reasoning and problem-solving skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "1",
+    "semester": "2",
+    "code": "IT1170",
+    "name": "Data Structures and Algorithms",
+    "description": "Learn how to organize and store data efficiently. Understand algorithms to solve problems effectively."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "1",
+    "semester": "2",
+    "code": "SE1010",
+    "name": "Software Engineering",
+    "description": "Understand the software development lifecycle. Learn how to design and build reliable software systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "1",
+    "semester": "2",
+    "code": "IT1150",
+    "name": "Technical Writing",
+    "description": "Develop skills to write clear technical documents. Learn professional communication in IT environments."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "2",
+    "semester": "1",
+    "code": "IT2120",
+    "name": "Probability and Statistics",
+    "description": "Learn probability and statistical techniques. Analyze and interpret data effectively."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "2",
+    "semester": "1",
+    "code": "SE2010",
+    "name": "Object Oriented Programming",
+    "description": "Learn concepts like classes and objects. Build reusable and scalable software systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "2",
+    "semester": "1",
+    "code": "IT2130",
+    "name": "Operating Systems & System Administration",
+    "description": "Understand how operating systems manage resources. Learn system configuration and administration basics."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "2",
+    "semester": "1",
+    "code": "IT2140",
+    "name": "Database Design and Development",
+    "description": "Learn how to design and manage databases. Use SQL for data storage and retrieval."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "2",
+    "semester": "2",
+    "code": "IT2011",
+    "name": "Artificial Intelligence & Machine Learning",
+    "description": "Learn AI concepts and machine learning techniques. Build systems that can learn from data."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "2",
+    "semester": "2",
+    "code": "IT2150",
+    "name": "IT Project",
+    "description": "Apply IT knowledge in a practical project. Develop problem-solving and development skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "2",
+    "semester": "2",
+    "code": "SE2020",
+    "name": "Web and Mobile Technologies",
+    "description": "Learn to develop web and mobile applications. Understand frontend and backend basics."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "2",
+    "semester": "2",
+    "code": "IT2160",
+    "name": "Professional Skills",
+    "description": "Develop communication and teamwork skills. Prepare for professional environments."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "3",
+    "semester": "1",
+    "code": "IT3120",
+    "name": "Industry Economics & Management",
+    "description": "Understand business and economic principles in IT. Learn management basics."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "3",
+    "semester": "1",
+    "code": "SE3090",
+    "name": "Software Engineering Frameworks",
+    "description": "Learn modern development frameworks. Build scalable and maintainable applications."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "3",
+    "semester": "1",
+    "code": "SE3100",
+    "name": "Architecture Based Development",
+    "description": "Understand system design and architecture patterns. Learn to design complex software systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "3",
+    "semester": "1",
+    "code": "SE3110",
+    "name": "Quality Management in Software Engineering",
+    "description": "Learn software testing techniques and quality control. Ensure reliability of software systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "3",
+    "semester": "2",
+    "code": "IT3190",
+    "name": "Industry Training",
+    "description": "Gain real-world work experience. Apply academic knowledge in industry."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "3",
+    "semester": "2",
+    "code": "SE3120",
+    "name": "Distributed Systems",
+    "description": "Learn principles of distributed computing. Build fault-tolerant and scalable systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "3",
+    "semester": "2",
+    "code": "SE3130",
+    "name": "User Experience Research & Design",
+    "description": "Learn UX research methods and design principles. Build user-friendly digital products."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "3",
+    "semester": "2",
+    "code": "IT3160",
+    "name": "Research Methods",
+    "description": "Learn research techniques and methodologies. Develop academic writing skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "4",
+    "semester": "1",
+    "code": "IT4200",
+    "name": "Research Project - I",
+    "description": "Start a research-based project. Develop analytical and problem-solving skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "4",
+    "semester": "1",
+    "code": "SE4070",
+    "name": "Secure Software Development",
+    "description": "Learn secure coding practices. Prevent vulnerabilities in software applications."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "4",
+    "semester": "1",
+    "code": "SE4080",
+    "name": "Cloud Native Development",
+    "description": "Develop applications for cloud-native environments. Understand microservices and containers."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "4",
+    "semester": "1",
+    "code": "SE4100",
+    "name": "Deep Learning",
+    "description": "Learn neural networks and deep learning models. Apply them to real-world problems."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "4",
+    "semester": "1",
+    "code": "SE4090",
+    "name": "Mobile Application Design & Development",
+    "description": "Design and develop mobile applications for major platforms. Understand UX and device integration."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "4",
+    "semester": "2",
+    "code": "IT4200",
+    "name": "Research Project - II",
+    "description": "Complete and present the research project. Deliver a full working solution."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "4",
+    "semester": "2",
+    "code": "SE4110",
+    "name": "Current Trends in Software Engineering",
+    "description": "Explore the latest trends in software development. Understand modern technologies and methodologies."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "4",
+    "semester": "2",
+    "code": "SE4120",
+    "name": "Enterprise Application Development",
+    "description": "Develop enterprise-level applications. Understand business system integration."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "4",
+    "semester": "2",
+    "code": "SE4140",
+    "name": "Big Data & Data Analytics",
+    "description": "Process and analyze large datasets. Extract meaningful business insights."
+  },
+  {
+    "course": "BSc (Hons) IT – Software Engineering Specialization",
+    "year": "4",
+    "semester": "2",
+    "code": "SE4130",
+    "name": "Parallel Computing",
+    "description": "Learn how to execute tasks simultaneously. Improve system performance using parallelism."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "1",
+    "semester": "1",
+    "code": "SE1012",
+    "name": "Programming Methodology",
+    "description": "Learn structured programming and problem-solving methodologies. Build software using systematic approaches."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "1",
+    "semester": "1",
+    "code": "IE1004",
+    "name": "Computational Thinking",
+    "description": "Develop computational thinking skills. Learn problem decomposition and algorithmic reasoning."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "1",
+    "semester": "1",
+    "code": "IE1014",
+    "name": "Engineering Mathematics - I",
+    "description": "Learn calculus, algebra, and mathematical foundations for engineering. Apply mathematical thinking to computing."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "1",
+    "semester": "1",
+    "code": "SE1022",
+    "name": "Discrete Mathematics",
+    "description": "Learn logic, sets, relations, and graph theory for computing. Develop mathematical reasoning skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "1",
+    "semester": "1",
+    "code": "SE1032",
+    "name": "Communication Skills",
+    "description": "Develop effective communication and presentation skills. Improve professional and interpersonal communication."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "1",
+    "semester": "2",
+    "code": "IE1024",
+    "name": "Computer Organization and Architecture",
+    "description": "Understand computer hardware organization and architecture. Learn how CPU, memory, and I/O interact."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "1",
+    "semester": "2",
+    "code": "IE1034",
+    "name": "Engineering Mathematics - II",
+    "description": "Learn advanced mathematics including differential equations. Apply them to engineering and computing problems."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "1",
+    "semester": "2",
+    "code": "IE1044",
+    "name": "Digital Electronics",
+    "description": "Learn digital logic design and Boolean algebra. Understand logic gates and circuits for computing."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "1",
+    "semester": "2",
+    "code": "SE1042",
+    "name": "English for Academic Purposes",
+    "description": "Develop academic writing and reading skills. Improve comprehension and expression in English."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "1",
+    "semester": "2",
+    "code": "SE1052",
+    "name": "Data Structures and Algorithms",
+    "description": "Learn how to organize and manage data efficiently. Understand algorithms to solve problems effectively."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "2",
+    "semester": "1",
+    "code": "IE2004",
+    "name": "Computer Networks",
+    "description": "Learn networking concepts and protocols. Understand how systems communicate across networks."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "2",
+    "semester": "1",
+    "code": "SE2012",
+    "name": "Object Oriented Analysis and Design",
+    "description": "Learn OO analysis and design principles. Use UML for modeling software systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "2",
+    "semester": "1",
+    "code": "SE2022",
+    "name": "Design and Analysis of Algorithms",
+    "description": "Learn algorithm design techniques and complexity analysis. Optimize solutions for efficiency."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "2",
+    "semester": "1",
+    "code": "SE2032",
+    "name": "Database Management Systems",
+    "description": "Learn relational database concepts and SQL. Design and manage databases effectively."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "2",
+    "semester": "1",
+    "code": "IE2024",
+    "name": "Probability and Statistics",
+    "description": "Learn statistical methods and probability concepts. Analyze and interpret data effectively."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "2",
+    "semester": "2",
+    "code": "SE2042",
+    "name": "Operating Systems",
+    "description": "Understand process management, memory, and file systems. Learn how modern OSes function."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "2",
+    "semester": "2",
+    "code": "SE2052",
+    "name": "Programming Paradigms",
+    "description": "Explore functional, logic, and other programming paradigms. Expand your coding perspective."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "2",
+    "semester": "2",
+    "code": "SE2062",
+    "name": "Distributed Systems",
+    "description": "Learn principles of distributed computing. Build systems across multiple machines."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "2",
+    "semester": "2",
+    "code": "SE2072",
+    "name": "Software Engineering",
+    "description": "Understand software development methodologies and lifecycle. Build quality software systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "2",
+    "semester": "2",
+    "code": "SE2082",
+    "name": "Human Computer Interaction",
+    "description": "Study HCI principles and usability. Design accessible and intuitive interfaces."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "3",
+    "semester": "1",
+    "code": "SE3022",
+    "name": "Case Study Project",
+    "description": "Apply computing knowledge to real-world case studies. Develop research and problem-solving skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "3",
+    "semester": "1",
+    "code": "SE3032",
+    "name": "Graphics and Visualization",
+    "description": "Learn visual computing techniques. Develop graphical applications and rendering methods."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "3",
+    "semester": "1",
+    "code": "SE3112",
+    "name": "Advanced Software Engineering",
+    "description": "Study advanced software engineering practices. Build scalable and maintainable systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "3",
+    "semester": "1",
+    "code": "IE3014",
+    "name": "Professional Skills",
+    "description": "Develop professional and workplace skills. Prepare for a computing career."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "3",
+    "semester": "1",
+    "code": "SE3062",
+    "name": "Intelligent Systems",
+    "description": "Learn AI concepts and intelligent system design. Build smart computing applications."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "3",
+    "semester": "1",
+    "code": "SE3082",
+    "name": "Parallel Computing",
+    "description": "Learn concurrent and parallel programming. Improve performance through parallelism."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "3",
+    "semester": "2",
+    "code": "SE3012",
+    "name": "Industry Economics and Management",
+    "description": "Understand economic and business principles in computing. Learn IT management."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "3",
+    "semester": "2",
+    "code": "SE3092",
+    "name": "Platform Based Development",
+    "description": "Learn to develop for specific computing platforms. Build platform-optimized applications."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "3",
+    "semester": "2",
+    "code": "SE3102",
+    "name": "Research Methods",
+    "description": "Learn research techniques and academic writing. Develop analytical skills for computing."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "3",
+    "semester": "2",
+    "code": "SE3072",
+    "name": "Industry Training",
+    "description": "Gain practical industry experience. Apply academic computing knowledge in real-world settings."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "4",
+    "semester": "1",
+    "code": "SE4012",
+    "name": "Research Project",
+    "description": "Conduct an in-depth computing research project. Analyze and propose innovative solutions."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "4",
+    "semester": "1",
+    "code": "SE4022",
+    "name": "Machine Learning",
+    "description": "Learn machine learning algorithms. Build and evaluate predictive models using data."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "4",
+    "semester": "1",
+    "code": "SE4032",
+    "name": "Advanced Mathematics",
+    "description": "Study advanced mathematical topics for computing. Solve complex computational problems."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "4",
+    "semester": "1",
+    "code": "IE4054",
+    "name": "Information Security",
+    "description": "Learn cybersecurity fundamentals. Protect systems and data from attacks and threats."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "4",
+    "semester": "1",
+    "code": "SE4042",
+    "name": "Modelling and Simulation of Sciences",
+    "description": "Learn simulation and modelling techniques. Apply them to solve scientific computing problems."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "4",
+    "semester": "2",
+    "code": "SE4052",
+    "name": "Compiler Construction",
+    "description": "Learn how programming languages are translated into machine code. Understand parsing and code generation."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "4",
+    "semester": "2",
+    "code": "SE4062",
+    "name": "Image Processing and Computer Vision",
+    "description": "Learn image processing algorithms and computer vision techniques. Build visual analysis applications."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "4",
+    "semester": "2",
+    "code": "SE4072",
+    "name": "Deep Learning",
+    "description": "Learn deep neural networks and their architectures. Apply them to intelligent applications."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Science Specialization",
+    "year": "4",
+    "semester": "2",
+    "code": "IE4094",
+    "name": "Robotics",
+    "description": "Learn robotics concepts and autonomous systems. Build and program robotic devices."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "1",
+    "semester": "1",
+    "code": "IT1120",
+    "name": "Introduction to Programming",
+    "description": "Learn the basics of programming using languages like Java or Python. Develop logical thinking and problem-solving skills to build simple applications."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "1",
+    "semester": "1",
+    "code": "IE1030",
+    "name": "Data Communication Networks",
+    "description": "Understand how computers communicate over networks and the internet. Learn about protocols, data transfer, and networking basics."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "1",
+    "semester": "1",
+    "code": "IT1130",
+    "name": "Mathematics for Computing",
+    "description": "Learn mathematical concepts such as algebra and logic used in computing. Develop analytical thinking skills for solving technical problems."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "1",
+    "semester": "1",
+    "code": "IT1140",
+    "name": "Fundamentals of Computing",
+    "description": "Understand the basics of computer systems including hardware and software. Learn how different components of a computer system function together."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "1",
+    "semester": "2",
+    "code": "IT1160",
+    "name": "Discrete Mathematics",
+    "description": "Learn logic, sets, and graph theory concepts used in computing. Develop reasoning and problem-solving skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "1",
+    "semester": "2",
+    "code": "IT1170",
+    "name": "Data Structures and Algorithms",
+    "description": "Learn how to organize and store data efficiently. Understand algorithms to solve problems effectively."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "1",
+    "semester": "2",
+    "code": "SE1010",
+    "name": "Software Engineering",
+    "description": "Understand the software development lifecycle. Learn how to design and build reliable software systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "1",
+    "semester": "2",
+    "code": "IT1150",
+    "name": "Technical Writing",
+    "description": "Develop skills to write clear technical documents. Learn professional communication in IT environments."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "2",
+    "semester": "1",
+    "code": "IT2120",
+    "name": "Probability and Statistics",
+    "description": "Learn probability and statistical techniques. Analyze and interpret data effectively."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "2",
+    "semester": "1",
+    "code": "SE2010",
+    "name": "Object Oriented Programming",
+    "description": "Learn concepts like classes and objects. Build reusable and scalable software systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "2",
+    "semester": "1",
+    "code": "IT2130",
+    "name": "Operating Systems & System Administration",
+    "description": "Understand how operating systems manage resources. Learn system configuration and administration basics."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "2",
+    "semester": "1",
+    "code": "IT2140",
+    "name": "Database Design and Development",
+    "description": "Learn how to design and manage databases. Use SQL for data storage and retrieval."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "2",
+    "semester": "2",
+    "code": "IT2011",
+    "name": "Artificial Intelligence & Machine Learning",
+    "description": "Learn AI concepts and machine learning techniques. Build systems that can learn from data."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "2",
+    "semester": "2",
+    "code": "IT2150",
+    "name": "IT Project",
+    "description": "Apply IT knowledge in a practical project. Develop problem-solving and development skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "2",
+    "semester": "2",
+    "code": "SE2020",
+    "name": "Web and Mobile Technologies",
+    "description": "Learn web and mobile development. Build frontend and backend applications."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "2",
+    "semester": "2",
+    "code": "IT2160",
+    "name": "Professional Skills",
+    "description": "Develop communication and teamwork skills. Prepare for professional environments."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "3",
+    "semester": "1",
+    "code": "IT3120",
+    "name": "Industry Economics & Management",
+    "description": "Understand business and economic principles in IT. Learn management basics."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "3",
+    "semester": "1",
+    "code": "IT3081",
+    "name": "Statistical Modelling",
+    "description": "Learn statistical models to make predictions. Apply models to real-world data problems."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "3",
+    "semester": "1",
+    "code": "IT3091",
+    "name": "Machine Learning",
+    "description": "Learn ML algorithms for data analysis. Build and evaluate predictive models."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "3",
+    "semester": "1",
+    "code": "IT3101",
+    "name": "Data Warehousing and Business Intelligence",
+    "description": "Learn how to store and process large datasets. Build systems for business intelligence."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "3",
+    "semester": "2",
+    "code": "IT3190",
+    "name": "Industry Training",
+    "description": "Gain real-world work experience. Apply academic knowledge in industry."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "3",
+    "semester": "2",
+    "code": "IT3111",
+    "name": "Deep Learning",
+    "description": "Learn neural network models for data science. Apply deep learning to real-world challenges."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "3",
+    "semester": "2",
+    "code": "IT3121",
+    "name": "Cloud Data Analytics",
+    "description": "Analyze data using cloud platforms. Build scalable cloud-based data solutions."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "3",
+    "semester": "2",
+    "code": "IT3160",
+    "name": "Research Methods",
+    "description": "Learn research techniques and methodologies. Develop academic writing skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "4",
+    "semester": "1",
+    "code": "IT4200",
+    "name": "Research Project - I",
+    "description": "Start a research-based project. Develop analytical and problem-solving skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "4",
+    "semester": "1",
+    "code": "IT4051",
+    "name": "Modern Topics in Data Science",
+    "description": "Explore cutting-edge data science technologies. Understand emerging tools and trends."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "4",
+    "semester": "1",
+    "code": "IT4061",
+    "name": "Natural Language Processing",
+    "description": "Analyze text data and build NLP applications. Understand language models and pipelines."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "4",
+    "semester": "1",
+    "code": "IT4081",
+    "name": "Software Engineering Concepts",
+    "description": "Understand engineering principles for data systems. Build reliable and maintainable data pipelines."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "4",
+    "semester": "1",
+    "code": "IT4091",
+    "name": "Optimization Methods",
+    "description": "Learn optimization algorithms. Improve performance and efficiency of data science models."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "4",
+    "semester": "2",
+    "code": "IT4200",
+    "name": "Research Project - II",
+    "description": "Complete and present the research project. Deliver a full working solution."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "4",
+    "semester": "2",
+    "code": "IT4071",
+    "name": "Data Governance, Privacy and Security",
+    "description": "Understand data governance frameworks. Learn privacy regulations and security best practices."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "4",
+    "semester": "2",
+    "code": "IT4101",
+    "name": "Database Implementation and Administration",
+    "description": "Learn advanced database administration. Manage and optimize large-scale data systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Data Science Specialization",
+    "year": "4",
+    "semester": "2",
+    "code": "IT4111",
+    "name": "MLOps for Data Analytics",
+    "description": "Learn deployment and monitoring of ML models. Manage the full AI system lifecycle."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "1",
+    "semester": "1",
+    "code": "IT1120",
+    "name": "Introduction to Programming",
+    "description": "Learn the basics of programming using languages like Java or Python. Develop logical thinking and problem-solving skills to build simple applications."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "1",
+    "semester": "1",
+    "code": "IE1030",
+    "name": "Data Communication Networks",
+    "description": "Understand how computers communicate over networks and the internet. Learn about protocols, data transfer, and networking basics."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "1",
+    "semester": "1",
+    "code": "IT1130",
+    "name": "Mathematics for Computing",
+    "description": "Learn mathematical concepts such as algebra and logic used in computing. Develop analytical thinking skills for solving technical problems."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "1",
+    "semester": "1",
+    "code": "IT1140",
+    "name": "Fundamentals of Computing",
+    "description": "Understand the basics of computer systems including hardware and software. Learn how different components of a computer system function together."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "1",
+    "semester": "2",
+    "code": "IT1160",
+    "name": "Discrete Mathematics",
+    "description": "Learn logic, sets, and graph theory concepts used in computing. Develop reasoning and problem-solving skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "1",
+    "semester": "2",
+    "code": "IT1170",
+    "name": "Data Structures and Algorithms",
+    "description": "Learn how to organize and store data efficiently. Understand algorithms to solve problems effectively."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "1",
+    "semester": "2",
+    "code": "SE1010",
+    "name": "Software Engineering",
+    "description": "Understand the software development lifecycle. Learn how to design and build reliable software systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "1",
+    "semester": "2",
+    "code": "IT1150",
+    "name": "Technical Writing",
+    "description": "Develop skills to write clear technical documents. Learn professional communication in IT environments."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "2",
+    "semester": "1",
+    "code": "IT2120",
+    "name": "Probability and Statistics",
+    "description": "Learn probability and statistical techniques. Analyze and interpret data effectively."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "2",
+    "semester": "1",
+    "code": "SE2010",
+    "name": "Object Oriented Programming",
+    "description": "Learn concepts like classes and objects. Build reusable and scalable software systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "2",
+    "semester": "1",
+    "code": "IT2130",
+    "name": "Operating Systems & System Administration",
+    "description": "Understand how operating systems manage resources. Learn system configuration and administration basics."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "2",
+    "semester": "1",
+    "code": "IT2140",
+    "name": "Database Design and Development",
+    "description": "Learn how to design and manage databases. Use SQL for data storage and retrieval."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "2",
+    "semester": "2",
+    "code": "IT2011",
+    "name": "Artificial Intelligence & Machine Learning",
+    "description": "Learn AI concepts and machine learning techniques. Build systems that can learn from data."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "2",
+    "semester": "2",
+    "code": "IE2092",
+    "name": "Introduction to Cyber Security",
+    "description": "Learn basic cybersecurity concepts and common threats. Understand how to protect systems and data."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "2",
+    "semester": "2",
+    "code": "IE2102",
+    "name": "Network Programming",
+    "description": "Learn to develop network applications. Understand socket programming and protocol implementation."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "2",
+    "semester": "2",
+    "code": "IT2160",
+    "name": "Professional Skills",
+    "description": "Develop communication and teamwork skills. Prepare for professional environments."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "3",
+    "semester": "1",
+    "code": "IT3120",
+    "name": "Industry Economics & Management",
+    "description": "Understand business and economic principles in IT. Learn management basics."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "3",
+    "semester": "1",
+    "code": "IE3122",
+    "name": "Network Security",
+    "description": "Learn how to secure networks from attacks. Understand firewalls, VPNs, and intrusion detection."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "3",
+    "semester": "1",
+    "code": "IE3132",
+    "name": "Vulnerability Assessment & Penetration Testing",
+    "description": "Learn to identify system vulnerabilities. Perform penetration tests to improve security posture."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "3",
+    "semester": "1",
+    "code": "IE3142",
+    "name": "DevOps Security",
+    "description": "Learn security practices in DevOps pipelines. Build secure CI/CD workflows and environments."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "3",
+    "semester": "2",
+    "code": "IT3190",
+    "name": "Industry Training",
+    "description": "Gain real-world work experience. Apply academic knowledge in industry."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "3",
+    "semester": "2",
+    "code": "IE3152",
+    "name": "Cryptography",
+    "description": "Learn encryption and decryption algorithms. Secure communications and sensitive data."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "3",
+    "semester": "2",
+    "code": "IE3162",
+    "name": "Ethical Hacking & Cyber Ops",
+    "description": "Learn ethical hacking and penetration testing methods. Understand offensive and defensive cyber operations."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "3",
+    "semester": "2",
+    "code": "IT3160",
+    "name": "Research Methods",
+    "description": "Learn research techniques and methodologies. Develop academic writing skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "4",
+    "semester": "1",
+    "code": "IT4200",
+    "name": "Research Project - I",
+    "description": "Start a research-based project. Develop analytical and problem-solving skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "4",
+    "semester": "1",
+    "code": "IE4102",
+    "name": "Governance, Risk Management & Compliance",
+    "description": "Understand IT governance frameworks. Learn risk assessment and compliance requirements."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "4",
+    "semester": "1",
+    "code": "IE4112",
+    "name": "Data & Systems Security",
+    "description": "Learn to protect data and information systems from threats. Apply security controls effectively."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "4",
+    "semester": "1",
+    "code": "IE4122",
+    "name": "Secure Software Engineering",
+    "description": "Learn secure coding and software development practices. Build attack-resistant applications."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "4",
+    "semester": "1",
+    "code": "IE4132",
+    "name": "Cyber Law & Ethics",
+    "description": "Understand legal and ethical dimensions of cybersecurity. Learn regulations and responsibilities."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "4",
+    "semester": "2",
+    "code": "IE4200",
+    "name": "Research Project - II",
+    "description": "Complete and present the research project. Deliver a full working solution."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "4",
+    "semester": "2",
+    "code": "IE4142",
+    "name": "Digital Forensics",
+    "description": "Investigate cyber incidents and data breaches. Use forensic tools to recover and analyze evidence."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "4",
+    "semester": "2",
+    "code": "IE4152",
+    "name": "Virtualization & Cloud Security",
+    "description": "Learn to secure virtual and cloud environments. Protect cloud-based infrastructure and applications."
+  },
+  {
+    "course": "BSc (Hons) IT – Cyber Security Specialization",
+    "year": "4",
+    "semester": "2",
+    "code": "IE4130",
+    "name": "Internet of Things",
+    "description": "Learn IoT architecture and security challenges. Protect connected smart device ecosystems."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "1",
+    "semester": "1",
+    "code": "IT1120",
+    "name": "Introduction to Programming",
+    "description": "Learn the basics of programming using languages like Java or Python. Develop logical thinking and problem-solving skills to build simple applications."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "1",
+    "semester": "1",
+    "code": "IE1030",
+    "name": "Data Communication Networks",
+    "description": "Understand how computers communicate over networks and the internet. Learn about protocols, data transfer, and networking basics."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "1",
+    "semester": "1",
+    "code": "IT1130",
+    "name": "Mathematics for Computing",
+    "description": "Learn mathematical concepts such as algebra and logic used in computing. Develop analytical thinking skills for solving technical problems."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "1",
+    "semester": "1",
+    "code": "IT1140",
+    "name": "Fundamentals of Computing",
+    "description": "Understand the basics of computer systems including hardware and software. Learn how different components of a computer system function together."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "1",
+    "semester": "2",
+    "code": "IT1160",
+    "name": "Discrete Mathematics",
+    "description": "Learn logic, sets, and graph theory concepts used in computing. Develop reasoning and problem-solving skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "1",
+    "semester": "2",
+    "code": "IT1170",
+    "name": "Data Structures and Algorithms",
+    "description": "Learn how to organize and store data efficiently. Understand algorithms to solve problems effectively."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "1",
+    "semester": "2",
+    "code": "SE1010",
+    "name": "Software Engineering",
+    "description": "Understand the software development lifecycle. Learn how to design and build reliable software systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "1",
+    "semester": "2",
+    "code": "IT1150",
+    "name": "Technical Writing",
+    "description": "Develop skills to write clear technical documents. Learn professional communication in IT environments."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "2",
+    "semester": "1",
+    "code": "IT2120",
+    "name": "Probability and Statistics",
+    "description": "Learn probability and statistical techniques. Analyze and interpret data effectively."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "2",
+    "semester": "1",
+    "code": "SE2010",
+    "name": "Object Oriented Programming",
+    "description": "Learn concepts like classes and objects. Build reusable and scalable software systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "2",
+    "semester": "1",
+    "code": "IT2130",
+    "name": "Operating Systems & System Administration",
+    "description": "Understand how operating systems manage resources. Learn system configuration and administration basics."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "2",
+    "semester": "1",
+    "code": "IT2140",
+    "name": "Database Design and Development",
+    "description": "Learn how to design and manage databases. Use SQL for data storage and retrieval."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "2",
+    "semester": "2",
+    "code": "IT2011",
+    "name": "Artificial Intelligence & Machine Learning",
+    "description": "Learn AI concepts and machine learning techniques. Build systems that can learn from data."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "2",
+    "semester": "2",
+    "code": "IE2091",
+    "name": "IS Project",
+    "description": "Work on an information systems project. Apply IS concepts to solve real organisational problems."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "2",
+    "semester": "2",
+    "code": "IE2101",
+    "name": "Requirement Engineering",
+    "description": "Learn how to gather and document system requirements. Understand user needs and system specifications."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "2",
+    "semester": "2",
+    "code": "IT2160",
+    "name": "Professional Skills",
+    "description": "Develop communication and teamwork skills. Prepare for professional environments."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "3",
+    "semester": "1",
+    "code": "IT3120",
+    "name": "Industry Economics & Management",
+    "description": "Understand business and economic principles in IT. Learn management basics."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "3",
+    "semester": "1",
+    "code": "IE3101",
+    "name": "Enterprise Network and Information Systems Security",
+    "description": "Learn to secure enterprise networks and information systems. Protect organisational data and infrastructure."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "3",
+    "semester": "1",
+    "code": "IE3111",
+    "name": "Organizational Functions",
+    "description": "Understand how organisations operate. Learn business processes and management structures."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "3",
+    "semester": "1",
+    "code": "IE3121",
+    "name": "Enterprise Architecture",
+    "description": "Learn enterprise system design and IT alignment with business strategy. Model large-scale IS architectures."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "3",
+    "semester": "2",
+    "code": "IE3131",
+    "name": "Business Intelligence and Data Analytics",
+    "description": "Analyze business data to generate insights. Support organisational decision-making with BI tools."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "3",
+    "semester": "2",
+    "code": "IE3141",
+    "name": "IS Strategy, Management & Acquisition",
+    "description": "Develop IS strategies for organisations. Learn system planning, management, and procurement."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "3",
+    "semester": "2",
+    "code": "IT3190",
+    "name": "Industry Training",
+    "description": "Gain real-world work experience. Apply academic knowledge in industry."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "3",
+    "semester": "2",
+    "code": "IT3160",
+    "name": "Research Methods",
+    "description": "Learn research techniques and methodologies. Develop academic writing skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "4",
+    "semester": "1",
+    "code": "IT4200",
+    "name": "Research Project - I",
+    "description": "Start a research-based project. Develop analytical and problem-solving skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "4",
+    "semester": "1",
+    "code": "IE4211",
+    "name": "Business Process Management",
+    "description": "Learn how to model and optimise business processes. Improve organisational efficiency through IS."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "4",
+    "semester": "1",
+    "code": "IE4221",
+    "name": "Professional Business Analysis",
+    "description": "Develop business analysis skills. Identify and solve complex organisational challenges."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "4",
+    "semester": "1",
+    "code": "IE4231",
+    "name": "Digital Entrepreneurship",
+    "description": "Learn to build digital businesses. Understand startup models and digital innovation strategies."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "4",
+    "semester": "1",
+    "code": "IT4160",
+    "name": "Software Quality Management",
+    "description": "Learn QA techniques and quality management frameworks. Ensure software meets organisational standards."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "4",
+    "semester": "2",
+    "code": "IT4200",
+    "name": "Research Project - II",
+    "description": "Complete and present the research project. Deliver a full working solution."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "4",
+    "semester": "2",
+    "code": "IE4241",
+    "name": "Emerging Trends in ISE",
+    "description": "Explore the latest innovations in information systems. Understand future IS directions."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "4",
+    "semester": "2",
+    "code": "IE4251",
+    "name": "Supply Chain Management",
+    "description": "Learn supply chain concepts and IS support for logistics. Optimise business operations."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "4",
+    "semester": "2",
+    "code": "IE4261",
+    "name": "IS Auditing and Risk Management",
+    "description": "Learn to audit information systems. Identify, assess, and manage IS-related risks."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Systems Engineering",
+    "year": "4",
+    "semester": "2",
+    "code": "IT4170",
+    "name": "Human Computer Interaction",
+    "description": "Design user-friendly systems and interfaces. Improve usability and user experience."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "1",
+    "semester": "1",
+    "code": "IT1120",
+    "name": "Introduction to Programming",
+    "description": "Learn the basics of programming using languages like Java or Python. Develop logical thinking and problem-solving skills to build simple applications."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "1",
+    "semester": "1",
+    "code": "IE1030",
+    "name": "Data Communication Networks",
+    "description": "Understand how computers communicate over networks and the internet. Learn about protocols, data transfer, and networking basics."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "1",
+    "semester": "1",
+    "code": "IT1130",
+    "name": "Mathematics for Computing",
+    "description": "Learn mathematical concepts such as algebra and logic used in computing. Develop analytical thinking skills for solving technical problems."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "1",
+    "semester": "1",
+    "code": "IT1140",
+    "name": "Fundamentals of Computing",
+    "description": "Understand the basics of computer systems including hardware and software. Learn how different components of a computer system function together."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "1",
+    "semester": "2",
+    "code": "IT1160",
+    "name": "Discrete Mathematics",
+    "description": "Learn logic, sets, and graph theory concepts used in computing. Develop reasoning and problem-solving skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "1",
+    "semester": "2",
+    "code": "IT1170",
+    "name": "Data Structures and Algorithms",
+    "description": "Learn how to organize and store data efficiently. Understand algorithms to solve problems effectively."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "1",
+    "semester": "2",
+    "code": "SE1010",
+    "name": "Software Engineering",
+    "description": "Understand the software development lifecycle. Learn how to design and build reliable software systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "1",
+    "semester": "2",
+    "code": "IT1150",
+    "name": "Technical Writing",
+    "description": "Develop skills to write clear technical documents. Learn professional communication in IT environments."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "2",
+    "semester": "1",
+    "code": "IT2120",
+    "name": "Probability and Statistics",
+    "description": "Learn probability and statistical techniques. Analyze and interpret data effectively."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "2",
+    "semester": "1",
+    "code": "SE2010",
+    "name": "Object Oriented Programming",
+    "description": "Learn concepts like classes and objects. Build reusable and scalable software systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "2",
+    "semester": "1",
+    "code": "IT2130",
+    "name": "Operating Systems & System Administration",
+    "description": "Understand how operating systems manage resources. Learn system configuration and administration basics."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "2",
+    "semester": "1",
+    "code": "IT2140",
+    "name": "Database Design and Development",
+    "description": "Learn how to design and manage databases. Use SQL for data storage and retrieval."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "2",
+    "semester": "2",
+    "code": "IT2011",
+    "name": "Artificial Intelligence & Machine Learning",
+    "description": "Learn AI concepts and machine learning techniques. Build systems that can learn from data."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "2",
+    "semester": "2",
+    "code": "IE2100",
+    "name": "Data Communication and Wireless Networks",
+    "description": "Learn advanced data communication and wireless networking technologies. Understand modern wireless systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "2",
+    "semester": "2",
+    "code": "IE2110",
+    "name": "Network Management and Systems Administration",
+    "description": "Learn to manage network infrastructure and perform system administration. Maintain network performance."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "2",
+    "semester": "2",
+    "code": "IE2160",
+    "name": "Professional Skills",
+    "description": "Develop communication and teamwork skills. Prepare for professional environments."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "3",
+    "semester": "1",
+    "code": "IT3120",
+    "name": "Industry Economics & Management",
+    "description": "Understand business and economic principles in IT. Learn management basics."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "3",
+    "semester": "1",
+    "code": "IE3090",
+    "name": "Network Programming",
+    "description": "Learn to develop network applications and services. Understand socket programming and network protocols."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "3",
+    "semester": "1",
+    "code": "IE3100",
+    "name": "Virtualization and Cloud Computing Technologies",
+    "description": "Learn virtualization concepts and cloud computing. Deploy and manage virtual and cloud environments."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "3",
+    "semester": "1",
+    "code": "IE3110",
+    "name": "Advanced Network Engineering",
+    "description": "Study advanced networking concepts including routing, switching, and WAN technologies. Build complex networks."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "3",
+    "semester": "2",
+    "code": "IT3190",
+    "name": "Industry Training",
+    "description": "Gain real-world work experience. Apply academic knowledge in industry."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "3",
+    "semester": "2",
+    "code": "IE3120",
+    "name": "Capstone Project",
+    "description": "Complete a major network engineering project. Apply all program knowledge to solve a real network problem."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "3",
+    "semester": "2",
+    "code": "IE3130",
+    "name": "Enterprise Network and Systems Security",
+    "description": "Learn to design and secure enterprise networks. Protect infrastructure from threats and attacks."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "3",
+    "semester": "2",
+    "code": "IT3160",
+    "name": "Research Methods",
+    "description": "Learn research techniques and methodologies. Develop academic writing skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "4",
+    "semester": "1",
+    "code": "IT4200",
+    "name": "Research Project - I",
+    "description": "Start a research-based project. Develop analytical and problem-solving skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "4",
+    "semester": "1",
+    "code": "IE4090",
+    "name": "DevOps",
+    "description": "Learn DevOps practices and automation tools. Integrate development and operations for faster delivery."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "4",
+    "semester": "1",
+    "code": "IE4100",
+    "name": "Network Storage and Architecture",
+    "description": "Learn network storage technologies and architectures. Design reliable and scalable storage solutions."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "4",
+    "semester": "1",
+    "code": "IE4112",
+    "name": "Data & Systems Security",
+    "description": "Learn to protect data and network systems. Apply security policies to enterprise infrastructure."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "4",
+    "semester": "1",
+    "code": "IE4102",
+    "name": "Governance, Risk Management & Compliance",
+    "description": "Understand IT governance and risk management. Ensure compliance with security frameworks."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "4",
+    "semester": "2",
+    "code": "IT4200",
+    "name": "Research Project - II",
+    "description": "Complete and present the research project. Deliver a full working solution."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "4",
+    "semester": "2",
+    "code": "IE4110",
+    "name": "Software Defined Networks",
+    "description": "Learn SDN concepts and programmable networking. Build flexible and dynamic network architectures."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "4",
+    "semester": "2",
+    "code": "IE4120",
+    "name": "Robotics and Intelligent Systems",
+    "description": "Learn robotics fundamentals and intelligent control systems. Build and deploy autonomous devices."
+  },
+  {
+    "course": "BSc (Hons) IT – Network Engineering",
+    "year": "4",
+    "semester": "2",
+    "code": "IE4130",
+    "name": "Internet of Things",
+    "description": "Learn IoT architecture, protocols, and applications. Build smart connected systems and solutions."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "1",
+    "semester": "1",
+    "code": "IT1120",
+    "name": "Introduction to Programming",
+    "description": "Learn the basics of programming using languages like Java or Python. Develop logical thinking and problem-solving skills to build simple applications."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "1",
+    "semester": "1",
+    "code": "IE1030",
+    "name": "Data Communication Networks",
+    "description": "Understand how computers communicate over networks and the internet. Learn about protocols, data transfer, and networking basics."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "1",
+    "semester": "1",
+    "code": "IT1130",
+    "name": "Mathematics for Computing",
+    "description": "Learn mathematical concepts such as algebra and logic used in computing. Develop analytical thinking skills for solving technical problems."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "1",
+    "semester": "1",
+    "code": "IT1140",
+    "name": "Fundamentals of Computing",
+    "description": "Understand the basics of computer systems including hardware and software. Learn how different components of a computer system function together."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "1",
+    "semester": "2",
+    "code": "IT1160",
+    "name": "Discrete Mathematics",
+    "description": "Learn logic, sets, and graph theory concepts used in computing. Develop reasoning and problem-solving skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "1",
+    "semester": "2",
+    "code": "IT1170",
+    "name": "Data Structures and Algorithms",
+    "description": "Learn how to organize and store data efficiently. Understand algorithms to solve problems effectively."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "1",
+    "semester": "2",
+    "code": "SE1010",
+    "name": "Software Engineering",
+    "description": "Understand the software development lifecycle. Learn how to design and build reliable software systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "1",
+    "semester": "2",
+    "code": "IT1150",
+    "name": "Technical Writing",
+    "description": "Develop skills to write clear technical documents. Learn professional communication in IT environments."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "2",
+    "semester": "1",
+    "code": "IT2120",
+    "name": "Probability and Statistics",
+    "description": "Learn probability and statistical techniques. Analyze and interpret data effectively."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "2",
+    "semester": "1",
+    "code": "SE2010",
+    "name": "Object Oriented Programming",
+    "description": "Learn concepts like classes and objects. Build reusable and scalable software systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "2",
+    "semester": "1",
+    "code": "IT2130",
+    "name": "Operating Systems & System Administration",
+    "description": "Understand how operating systems manage resources. Learn system configuration and administration basics."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "2",
+    "semester": "1",
+    "code": "IT2140",
+    "name": "Database Design and Development",
+    "description": "Learn how to design and manage databases. Use SQL for data storage and retrieval."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "2",
+    "semester": "2",
+    "code": "IT2011",
+    "name": "Artificial Intelligence & Machine Learning",
+    "description": "Learn AI concepts and machine learning techniques. Build systems that can learn from data."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "2",
+    "semester": "2",
+    "code": "SE2011",
+    "name": "Technical Evolution of Multimedia",
+    "description": "Explore the history and evolution of multimedia technologies. Understand modern digital media systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "2",
+    "semester": "2",
+    "code": "SE2021",
+    "name": "Creative Expertise Development",
+    "description": "Develop creative and design skills for digital media. Learn to produce compelling digital content."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "2",
+    "semester": "2",
+    "code": "IT2160",
+    "name": "Professional Skills",
+    "description": "Develop communication and teamwork skills. Prepare for professional environments."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "3",
+    "semester": "1",
+    "code": "SE3101",
+    "name": "Advanced Computer Graphics",
+    "description": "Learn advanced computer graphics techniques and rendering. Build graphically rich applications."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "3",
+    "semester": "1",
+    "code": "SE3111",
+    "name": "Digital Business Management and Entrepreneurship",
+    "description": "Understand digital business models and entrepreneurship. Launch and manage digital media ventures."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "3",
+    "semester": "1",
+    "code": "SE3121",
+    "name": "UI/UX Designing and Engineering",
+    "description": "Learn user interface design principles and UX engineering. Create intuitive and engaging digital experiences."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "3",
+    "semester": "1",
+    "code": "SE3131",
+    "name": "Fundamentals of Cinematography and Digital Multimedia",
+    "description": "Learn digital filmmaking and cinematography basics. Produce and edit multimedia content professionally."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "3",
+    "semester": "2",
+    "code": "IT3190",
+    "name": "Industry Training",
+    "description": "Gain real-world work experience. Apply academic knowledge in industry."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "3",
+    "semester": "2",
+    "code": "SE3141",
+    "name": "3D Modeling & Animation",
+    "description": "Learn 3D modeling and animation techniques. Create characters, environments, and animated sequences."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "3",
+    "semester": "2",
+    "code": "SE3151",
+    "name": "Machine Learning Based Image Manipulations",
+    "description": "Apply machine learning to image processing. Build intelligent image manipulation applications."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "3",
+    "semester": "2",
+    "code": "IT3160",
+    "name": "Research Methods",
+    "description": "Learn research techniques and methodologies. Develop academic writing skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "4",
+    "semester": "1",
+    "code": "IT4200",
+    "name": "Research Project - I",
+    "description": "Start a research-based project. Develop analytical and problem-solving skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "4",
+    "semester": "1",
+    "code": "SE4071",
+    "name": "Games Technology",
+    "description": "Learn game development technologies and engines. Build interactive game experiences."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "4",
+    "semester": "1",
+    "code": "SE4081",
+    "name": "Technology-Based Entertainment and Aesthetics",
+    "description": "Explore entertainment technologies and digital aesthetics. Create immersive media experiences."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "4",
+    "semester": "1",
+    "code": "SE4101",
+    "name": "Advanced Computer Generated Imagery",
+    "description": "Learn advanced CGI techniques and visual effects. Produce high-quality digital imagery."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "4",
+    "semester": "1",
+    "code": "SE4111",
+    "name": "Advanced Cinematography and Television Production",
+    "description": "Learn advanced filmmaking and TV production skills. Produce professional-quality media content."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "4",
+    "semester": "1",
+    "code": "SE4121",
+    "name": "Mobile Application Design and Development",
+    "description": "Design and develop mobile apps with rich media features. Understand mobile UX and content delivery."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "4",
+    "semester": "2",
+    "code": "IT4200",
+    "name": "Research Project - II",
+    "description": "Complete and present the research project. Deliver a full working solution."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "4",
+    "semester": "2",
+    "code": "SE4091",
+    "name": "New Media Project Management",
+    "description": "Learn to manage new media production projects. Plan and deliver media projects on time."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "4",
+    "semester": "2",
+    "code": "SE4131",
+    "name": "Games and Mixed Reality Applications",
+    "description": "Build games and mixed reality experiences. Understand AR/VR technologies and their applications."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "4",
+    "semester": "2",
+    "code": "SE4141",
+    "name": "New Media Insights",
+    "description": "Analyze trends in new media. Understand emerging digital media landscape and opportunities."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "4",
+    "semester": "2",
+    "code": "SE4151",
+    "name": "Audio Engineering and Sonic Arts",
+    "description": "Learn audio production and sound design. Create professional audio for digital media."
+  },
+  {
+    "course": "BSc (Hons) IT – Interactive Media",
+    "year": "4",
+    "semester": "2",
+    "code": "SE4161",
+    "name": "Advanced Digital Marketing and Advertising",
+    "description": "Learn digital marketing strategies for media. Build and run effective online media campaigns."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "1",
+    "semester": "1",
+    "code": "SE1012",
+    "name": "Programming Methodology",
+    "description": "Learn structured programming and problem-solving methodologies. Build software using systematic approaches."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "1",
+    "semester": "1",
+    "code": "IE1004",
+    "name": "Computational Thinking",
+    "description": "Develop computational thinking skills. Learn problem decomposition and algorithmic reasoning."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "1",
+    "semester": "1",
+    "code": "IE1014",
+    "name": "Engineering Mathematics - I",
+    "description": "Learn calculus, algebra, and mathematical foundations. Apply mathematical thinking to engineering problems."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "1",
+    "semester": "1",
+    "code": "SE1022",
+    "name": "Discrete Mathematics",
+    "description": "Learn logic, sets, and graph theory for engineering. Develop mathematical reasoning and analysis."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "1",
+    "semester": "1",
+    "code": "SE1032",
+    "name": "Communication Skills",
+    "description": "Develop effective communication and presentation skills. Improve professional and technical communication."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "1",
+    "semester": "2",
+    "code": "IE1024",
+    "name": "Computer Organization and Architecture",
+    "description": "Understand how computers are organized internally. Learn CPU, memory hierarchy, and I/O systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "1",
+    "semester": "2",
+    "code": "IE1034",
+    "name": "Engineering Mathematics - II",
+    "description": "Study advanced mathematics including differential equations. Apply to engineering and system modelling."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "1",
+    "semester": "2",
+    "code": "IE1044",
+    "name": "Digital Electronics",
+    "description": "Learn digital circuit design and Boolean algebra. Understand logic gates and digital systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "1",
+    "semester": "2",
+    "code": "SE1042",
+    "name": "English for Academic Purposes",
+    "description": "Improve academic English skills. Develop writing and critical reading for university study."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "1",
+    "semester": "2",
+    "code": "SE1052",
+    "name": "Data Structures and Algorithms",
+    "description": "Learn how to organize data and design algorithms. Solve computational problems efficiently."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "2",
+    "semester": "1",
+    "code": "IE2004",
+    "name": "Computer Networks",
+    "description": "Learn networking fundamentals and protocols. Understand how computers communicate across systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "2",
+    "semester": "1",
+    "code": "SE2012",
+    "name": "Object Oriented Analysis and Design",
+    "description": "Learn OO design principles and UML modelling. Develop robust software architectures."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "2",
+    "semester": "1",
+    "code": "IE2014",
+    "name": "Circuit Theory",
+    "description": "Learn electrical circuit analysis and theory. Understand fundamental laws and circuit behaviour."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "2",
+    "semester": "1",
+    "code": "SE2032",
+    "name": "Database Management Systems",
+    "description": "Learn relational databases and SQL. Design and manage structured data systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "2",
+    "semester": "1",
+    "code": "IE2024",
+    "name": "Probability and Statistics",
+    "description": "Learn probability theory and statistical analysis. Apply to engineering and computing problems."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "2",
+    "semester": "2",
+    "code": "IE2034",
+    "name": "Analog Electronics",
+    "description": "Learn analog electronic circuits and amplifiers. Understand signal processing fundamentals."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "2",
+    "semester": "2",
+    "code": "IE2044",
+    "name": "System Modelling and Prototyping",
+    "description": "Learn to model and prototype computer systems. Build proof-of-concept hardware-software solutions."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "2",
+    "semester": "2",
+    "code": "IE2064",
+    "name": "Advanced Computer Organization & Architecture",
+    "description": "Study advanced CPU design and memory systems. Understand performance optimization in hardware."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "2",
+    "semester": "2",
+    "code": "IE2074",
+    "name": "Control Theory",
+    "description": "Learn control system fundamentals and feedback mechanisms. Design stable and responsive systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "2",
+    "semester": "2",
+    "code": "IE2084",
+    "name": "Communication Technologies",
+    "description": "Learn modern communication technologies and standards. Understand wireless and wired communication systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "3",
+    "semester": "1",
+    "code": "IE3004",
+    "name": "Digital Systems Design",
+    "description": "Learn digital system design using HDLs. Build programmable logic and hardware systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "3",
+    "semester": "1",
+    "code": "IE3014",
+    "name": "Professional Skills",
+    "description": "Develop workplace-ready professional skills. Improve engineering communication and teamwork."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "3",
+    "semester": "1",
+    "code": "IE3034",
+    "name": "Control Systems Engineering",
+    "description": "Study advanced control systems and design. Apply control theory to real engineering problems."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "3",
+    "semester": "1",
+    "code": "IE3054",
+    "name": "Digital Signal Processing",
+    "description": "Learn digital signal processing techniques. Analyze and process signals for engineering applications."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "3",
+    "semester": "1",
+    "code": "IE3064",
+    "name": "Embedded Systems Engineering",
+    "description": "Learn to design embedded systems with hardware-software integration. Build real-time computing devices."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "3",
+    "semester": "2",
+    "code": "IE3044",
+    "name": "Design Project",
+    "description": "Complete an engineering design project. Apply knowledge to build and test a real-world prototype."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "3",
+    "semester": "2",
+    "code": "SE3012",
+    "name": "Industrial Economics and Management",
+    "description": "Understand economic principles and engineering management. Apply business thinking to engineering contexts."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "3",
+    "semester": "2",
+    "code": "IE3024",
+    "name": "Advanced Mathematics",
+    "description": "Study advanced engineering mathematics. Solve complex analytical and numerical problems."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "3",
+    "semester": "2",
+    "code": "SE3072",
+    "name": "Industry Training",
+    "description": "Gain practical engineering experience in industry. Apply academic skills in a professional setting."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "4",
+    "semester": "1",
+    "code": "IE4004",
+    "name": "Research Project - I",
+    "description": "Start a research-based project. Develop analytical and problem-solving skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "4",
+    "semester": "1",
+    "code": "IE4054",
+    "name": "Information Security",
+    "description": "Learn cybersecurity principles for systems. Protect hardware and software from attacks."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "4",
+    "semester": "1",
+    "code": "SE4022",
+    "name": "Machine Learning",
+    "description": "Learn machine learning algorithms. Build intelligent systems from data."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "4",
+    "semester": "1",
+    "code": "IE4044",
+    "name": "Biologically Inspired Systems",
+    "description": "Learn computing inspired by biological processes. Study neural networks and evolutionary algorithms."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "4",
+    "semester": "1",
+    "code": "IE4034",
+    "name": "Real Time Operating Systems",
+    "description": "Learn RTOS concepts and design. Build time-critical embedded software systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "4",
+    "semester": "1",
+    "code": "IE4014",
+    "name": "Parallel & Distributed Computing",
+    "description": "Learn parallel programming and distributed system design. Build high-performance computing solutions."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "4",
+    "semester": "1",
+    "code": "IE4104",
+    "name": "Advanced Software Engineering",
+    "description": "Apply advanced software engineering practices to systems. Build reliable and scalable software."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "4",
+    "semester": "1",
+    "code": "IE4114",
+    "name": "Intelligent Systems",
+    "description": "Learn intelligent system design and AI applications. Build smart engineering systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "4",
+    "semester": "2",
+    "code": "IE4004",
+    "name": "Research Project - II",
+    "description": "Complete and present the research project. Deliver a full working solution."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "4",
+    "semester": "2",
+    "code": "IE4064",
+    "name": "Instrumentation and Control",
+    "description": "Learn instrumentation systems and control engineering. Measure and control physical processes."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "4",
+    "semester": "2",
+    "code": "IE4074",
+    "name": "Interactive System Design",
+    "description": "Design interactive systems and user interfaces. Improve usability for engineering applications."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "4",
+    "semester": "2",
+    "code": "IE4084",
+    "name": "Virtualization & Cloud Computing Technologies",
+    "description": "Learn virtualization and cloud infrastructure. Deploy and manage cloud-based computing systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "4",
+    "semester": "2",
+    "code": "IE4094",
+    "name": "Robotics",
+    "description": "Learn robotics design, control, and programming. Build autonomous robotic systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "4",
+    "semester": "2",
+    "code": "SE4062",
+    "name": "Image Processing and Computer Vision",
+    "description": "Learn image processing techniques and visual computing. Build applications for machine vision."
+  },
+  {
+    "course": "BSc (Hons) IT – Computer Systems Engineering",
+    "year": "4",
+    "semester": "2",
+    "code": "SE4072",
+    "name": "Deep Learning",
+    "description": "Learn deep neural network architectures. Apply deep learning to engineering and computing problems."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "1",
+    "semester": "1",
+    "code": "IT1120",
+    "name": "Introduction to Programming",
+    "description": "Learn basic programming concepts using languages like Java or Python. Develop logical thinking and problem-solving skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "1",
+    "semester": "1",
+    "code": "IE1030",
+    "name": "Data Communication Networks",
+    "description": "Understand how data is transmitted between computers. Learn networking concepts and communication protocols."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "1",
+    "semester": "1",
+    "code": "IT1130",
+    "name": "Mathematics for Computing",
+    "description": "Learn mathematical concepts such as algebra and logic. Develop analytical thinking for problem solving."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "1",
+    "semester": "1",
+    "code": "IT1140",
+    "name": "Fundamentals of Computing",
+    "description": "Understand basic computer systems including hardware and software. Learn how different components work together."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "1",
+    "semester": "1",
+    "code": "IT1020",
+    "name": "Introduction to Computer Systems",
+    "description": "Learn about computer architecture and system components. Understand how hardware and software interact."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "1",
+    "semester": "1",
+    "code": "IT1010",
+    "name": "Introduction to Programming (Lab)",
+    "description": "Learn basic programming structures and logic through hands-on labs. Develop simple programs to solve problems."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "1",
+    "semester": "1",
+    "code": "IT1030",
+    "name": "Mathematics for Computing (Lab)",
+    "description": "Apply core mathematical principles to computing problems in practice. Develop computational problem-solving skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "1",
+    "semester": "1",
+    "code": "IT1040",
+    "name": "Communication Skills",
+    "description": "Develop effective communication skills. Improve presentation and interpersonal abilities."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "1",
+    "semester": "2",
+    "code": "IT1160",
+    "name": "Discrete Mathematics",
+    "description": "Learn logic, sets, and graph theory concepts. Develop reasoning and analytical skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "1",
+    "semester": "2",
+    "code": "IT1170",
+    "name": "Data Structures and Algorithms",
+    "description": "Learn how to organize and manage data efficiently. Understand algorithms to solve problems effectively."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "1",
+    "semester": "2",
+    "code": "SE1010",
+    "name": "Software Engineering",
+    "description": "Understand software development lifecycle. Learn structured methods for building software systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "1",
+    "semester": "2",
+    "code": "IT1150",
+    "name": "Technical Writing",
+    "description": "Develop professional writing skills. Learn to create clear and accurate technical documents."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "1",
+    "semester": "2",
+    "code": "IT1050",
+    "name": "Object Oriented Concepts",
+    "description": "Learn object-oriented principles like classes and objects. Build reusable and modular code."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "1",
+    "semester": "2",
+    "code": "IT1060",
+    "name": "Software Process Modeling",
+    "description": "Understand software development processes and workflows. Learn how to model and improve them."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "1",
+    "semester": "2",
+    "code": "IT1080",
+    "name": "English for Academic Purposes",
+    "description": "Improve academic English skills. Develop writing and reading abilities for university study."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "1",
+    "semester": "2",
+    "code": "IT1090",
+    "name": "Information Systems & Data Modeling",
+    "description": "Learn how to design information systems. Understand data modeling and system requirements."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "1",
+    "semester": "2",
+    "code": "IT1100",
+    "name": "Internet & Web Technologies",
+    "description": "Learn how the internet and web systems work. Develop basic web applications."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "2",
+    "semester": "1",
+    "code": "IT2120",
+    "name": "Probability and Statistics",
+    "description": "Learn probability and statistical techniques. Analyze and interpret data effectively."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "2",
+    "semester": "1",
+    "code": "SE2010",
+    "name": "Object Oriented Programming",
+    "description": "Learn concepts like classes and objects. Build reusable and scalable software systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "2",
+    "semester": "1",
+    "code": "IT2130",
+    "name": "Operating Systems & System Administration",
+    "description": "Understand how operating systems manage resources. Learn system configuration and administration basics."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "2",
+    "semester": "1",
+    "code": "IT2140",
+    "name": "Database Design and Development",
+    "description": "Learn how to design and manage databases. Use SQL for data storage and retrieval."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "2",
+    "semester": "1",
+    "code": "IT2020",
+    "name": "Software Engineering",
+    "description": "Understand software design principles and lifecycle models. Develop structured software systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "2",
+    "semester": "1",
+    "code": "IT2030",
+    "name": "Object Oriented Programming (Advanced)",
+    "description": "Learn advanced object-oriented programming concepts. Build scalable modular applications."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "2",
+    "semester": "1",
+    "code": "IT2040",
+    "name": "Data Management Systems",
+    "description": "Learn how to store and manage data effectively. Understand database management principles."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "2",
+    "semester": "1",
+    "code": "IT2050",
+    "name": "Computer Networks",
+    "description": "Learn networking concepts and protocols. Understand how systems communicate across networks."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "2",
+    "semester": "1",
+    "code": "IT2060",
+    "name": "Operating Systems and System Administration (Lab)",
+    "description": "Apply OS management skills in practical labs. Configure and administer systems hands-on."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "2",
+    "semester": "2",
+    "code": "IT2011",
+    "name": "Artificial Intelligence & Machine Learning",
+    "description": "Learn AI concepts and machine learning techniques. Build systems that can learn from data."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "2",
+    "semester": "2",
+    "code": "IT2150",
+    "name": "IT Project",
+    "description": "Apply IT knowledge in a practical project. Develop problem-solving and software development skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "2",
+    "semester": "2",
+    "code": "SE2020",
+    "name": "Web and Mobile Technologies",
+    "description": "Learn web and mobile application development. Build integrated frontend and backend solutions."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "2",
+    "semester": "2",
+    "code": "IT2160",
+    "name": "Professional Skills",
+    "description": "Develop communication and teamwork skills. Prepare for professional environments."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "2",
+    "semester": "2",
+    "code": "IT2010",
+    "name": "Mobile Application Development",
+    "description": "Learn to build mobile apps for Android and iOS. Understand mobile UI/UX and platform features."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "2",
+    "semester": "2",
+    "code": "IT2070",
+    "name": "Data Structure & Algorithms",
+    "description": "Learn advanced data structures and algorithm design. Improve problem-solving efficiency."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "2",
+    "semester": "2",
+    "code": "IT2080",
+    "name": "IT Project (Lab)",
+    "description": "Work hands-on on a practical IT project. Apply theoretical knowledge in real development scenarios."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "2",
+    "semester": "2",
+    "code": "IT2090",
+    "name": "Professional Skills (Lab)",
+    "description": "Develop soft skills and workplace readiness. Improve teamwork and professional competencies."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "2",
+    "semester": "2",
+    "code": "IT2110",
+    "name": "Probability & Statistics (Applied)",
+    "description": "Apply statistical analysis techniques to IT problems. Interpret data for practical decision-making."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "3",
+    "semester": "1",
+    "code": "IT3120",
+    "name": "Industry Economics & Management",
+    "description": "Understand business and economic principles in IT. Learn management basics."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "3",
+    "semester": "1",
+    "code": "IT3130",
+    "name": "Application Development",
+    "description": "Learn to develop real-world software applications. Build scalable solutions using modern tools."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "3",
+    "semester": "1",
+    "code": "IT3140",
+    "name": "Database Systems",
+    "description": "Understand advanced database design and implementation. Manage and optimize complex data systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "3",
+    "semester": "1",
+    "code": "IT3150",
+    "name": "IT Process and Infrastructure Management",
+    "description": "Learn IT infrastructure management and service delivery. Understand ITIL-based processes."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "3",
+    "semester": "1",
+    "code": "IT3010",
+    "name": "Network Design & Management",
+    "description": "Learn how to design and manage scalable networks. Build and maintain enterprise network solutions."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "3",
+    "semester": "1",
+    "code": "IT3030",
+    "name": "Programming Application and Frameworks",
+    "description": "Learn modern programming frameworks for web and enterprise. Build scalable applications."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "3",
+    "semester": "1",
+    "code": "IT3040",
+    "name": "IT Project Management",
+    "description": "Learn IT project planning, execution, and control. Manage IT development projects effectively."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "3",
+    "semester": "1",
+    "code": "IT3020",
+    "name": "Database Systems (Advanced)",
+    "description": "Study advanced database architectures and administration. Optimize large-scale data management."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "3",
+    "semester": "2",
+    "code": "IT3190",
+    "name": "Industry Training",
+    "description": "Gain real-world work experience. Apply academic knowledge in industry."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "3",
+    "semester": "2",
+    "code": "IT3180",
+    "name": "Cloud Technologies",
+    "description": "Learn cloud computing concepts and platforms. Build scalable cloud-based IT solutions."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "3",
+    "semester": "2",
+    "code": "IT3200",
+    "name": "Data Analytics",
+    "description": "Analyze and interpret data using modern tools. Extract actionable insights from datasets."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "3",
+    "semester": "2",
+    "code": "IT3160",
+    "name": "Research Methods",
+    "description": "Learn research techniques and methodologies. Develop academic writing skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "3",
+    "semester": "2",
+    "code": "IT3080",
+    "name": "Data Science & Analytics",
+    "description": "Learn data science techniques and analytics pipelines. Analyze large datasets for insights."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "3",
+    "semester": "2",
+    "code": "IT3070",
+    "name": "Information Assurance & Security",
+    "description": "Learn information security principles and practices. Protect data and IT systems from threats."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "3",
+    "semester": "2",
+    "code": "IT3060",
+    "name": "Human Computer Interaction",
+    "description": "Study human-computer interaction and usability. Design user-centered systems and interfaces."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "3",
+    "semester": "2",
+    "code": "IT3090",
+    "name": "Business Management for IT",
+    "description": "Learn business management concepts applied to IT. Understand IT strategy and organisational context."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "4",
+    "semester": "1",
+    "code": "IT4010",
+    "name": "Research Project",
+    "description": "Start a research-based project. Develop analytical and problem-solving skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "4",
+    "semester": "1",
+    "code": "IT4140",
+    "name": "Industry Placement",
+    "description": "Gain real-world IT industry experience. Apply academic skills in a professional work environment."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "4",
+    "semester": "1",
+    "code": "IT4130",
+    "name": "Image Understanding & Processing",
+    "description": "Learn image processing and computer vision techniques. Analyze and interpret visual data."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "4",
+    "semester": "1",
+    "code": "IT4110",
+    "name": "Computer Systems and Network Administration",
+    "description": "Manage computer systems and network infrastructure. Ensure performance, reliability, and security."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "4",
+    "semester": "1",
+    "code": "IT4100",
+    "name": "Software Quality Assurance",
+    "description": "Learn software testing methodologies and QA practices. Ensure software meets quality standards."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "4",
+    "semester": "1",
+    "code": "IT4070",
+    "name": "Preparation for the Professional World",
+    "description": "Prepare for IT careers with industry-relevant skills. Develop career planning and professional readiness."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "4",
+    "semester": "1",
+    "code": "IT4060",
+    "name": "Machine Learning",
+    "description": "Learn machine learning algorithms and techniques. Build and evaluate intelligent predictive models."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "4",
+    "semester": "1",
+    "code": "IT4020",
+    "name": "Modern Topics in IT",
+    "description": "Explore current and emerging IT trends. Understand the impact of new technologies on the industry."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "4",
+    "semester": "1",
+    "code": "IT4040",
+    "name": "Information Assurance and Auditing",
+    "description": "Learn IT auditing and assurance frameworks. Ensure the integrity and security of information systems."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "4",
+    "semester": "2",
+    "code": "IT4200",
+    "name": "Research Project - I",
+    "description": "Start a research-based project. Develop analytical and problem-solving skills."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "4",
+    "semester": "2",
+    "code": "IT4210",
+    "name": "Information Security",
+    "description": "Learn advanced security techniques and frameworks. Protect systems and data from evolving threats."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "4",
+    "semester": "2",
+    "code": "IT4150",
+    "name": "Intelligent Systems Development",
+    "description": "Develop AI-powered intelligent applications. Apply machine learning and reasoning to real problems."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "4",
+    "semester": "2",
+    "code": "IT4180",
+    "name": "IT Policy Management and Governance",
+    "description": "Understand IT governance frameworks and policy management. Align IT with organisational objectives."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "4",
+    "semester": "2",
+    "code": "IT4160",
+    "name": "Software Quality Management",
+    "description": "Learn quality management frameworks for software. Improve processes and ensure software reliability."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "4",
+    "semester": "2",
+    "code": "IT4200b",
+    "name": "Research Project - II",
+    "description": "Complete and present the research project. Deliver a full working solution."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "4",
+    "semester": "2",
+    "code": "IT4190",
+    "name": "Current Trends in IT",
+    "description": "Explore the latest developments in IT. Understand emerging technologies shaping the industry."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "4",
+    "semester": "2",
+    "code": "SE4120",
+    "name": "Enterprise Application Development",
+    "description": "Develop enterprise-level applications. Understand scalable architectures and business integration."
+  },
+  {
+    "course": "BSc (Hons) IT – Information Technology",
+    "year": "4",
+    "semester": "2",
+    "code": "IT4170",
+    "name": "Human Computer Interaction",
+    "description": "Design user-friendly systems and interfaces. Apply HCI principles to improve interaction and experience."
+  }
+]

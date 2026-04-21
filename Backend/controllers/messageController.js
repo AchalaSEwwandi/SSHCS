@@ -27,7 +27,7 @@ export const createMessage = async (req, res, next) => {
     }
 
     const senderId = req.user ? req.user.id : 'demo';
-
+//required fields for form
     const newMessage = new Message({
       senderId,
       receiverId,

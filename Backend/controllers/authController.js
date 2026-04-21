@@ -246,7 +246,7 @@ export const forgotPassword = async (req, res, next) => {
     await OTP.deleteMany({ email });
     await OTP.create({ email, otp, expiresAt });
 
-    // Send email
+    // Sending email
     await sendEmail({
       to: email,
       subject: 'SSHCS - Password Reset OTP',

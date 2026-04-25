@@ -7,7 +7,7 @@ import ChatbotSession from '../models/ChatbotSession.js';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const OPENROUTER_API_KEY = "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"; // Replace with your actual key
+const OPENROUTER_API_KEY = "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"; // Replace with your actual key
 
 let modulesData = [];
 try {
